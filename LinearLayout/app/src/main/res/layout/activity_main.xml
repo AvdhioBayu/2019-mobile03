@@ -20,16 +20,13 @@
            android:layout_width="match_parent"
            android:layout_height="match_parent"
            android:layout_weight="1"
-           android:background="#FFF44336">
-
-       </LinearLayout>
+           android:background="#FFF44336"/>
 
        <LinearLayout
            android:layout_width="match_parent"
            android:layout_height="match_parent"
            android:layout_weight="1"
-           >
-       </LinearLayout>
+           />
 
    </LinearLayout>
 
@@ -45,15 +42,12 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="#00FF0A">
-
-        </LinearLayout>
+            android:background="#00FF0A" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            >
-        </LinearLayout>
+            android:layout_weight="1"/>
+    </LinearLayout>
 </LinearLayout>
 
